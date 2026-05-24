@@ -2,6 +2,11 @@
 
 Keep track of how much water you drink and check it on a daily view calendar. Made with Flutter.
 
+## Used Packages
+
+- [Hive](https://pub.dev/packages/hive)
+- [my_toastify](https://pub.dev/packages/my_toastify)
+
 ## Build
 
 ```
