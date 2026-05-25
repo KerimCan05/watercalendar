@@ -1,4 +1,4 @@
-package com.canoz.watercalendar
+package com.github.KerimCan05.watercalendar
 
 import io.flutter.embedding.android.FlutterActivity
 
